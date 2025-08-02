@@ -1,0 +1,5 @@
+vncpasswd
+
+widmevgomilton
+
+vncserver -localhost no

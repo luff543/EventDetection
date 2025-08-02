@@ -1,0 +1,10 @@
+test_size,train_size,epoch,batch_size,learn_rate,weight_decay
+4,9
+1,9,6
+3
+8
+1,e,-,0,5
+0
+matrixes,correct_count,total_data,acc,precision,recall,macro_f1,micro_f1
+"[[21  8]
+ [ 2 18]]",39,49,0.7959183673469388,0.8026755852842808,0.8120689655172414,0.7951505016722407,0.7959183673469388

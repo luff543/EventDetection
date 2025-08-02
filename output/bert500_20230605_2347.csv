@@ -1,0 +1,10 @@
+test_size,train_size,epoch,batch_size,learn_rate,weight_decay
+1,0,0
+4,0,0
+d,e,f,a,u,l,t
+d,e,f,a,u,l,t
+d,e,f,a,u,l,t
+d,e,f,a,u,l,t
+matrixes,correct_count,total_data,acc,precision,recall,macro_f1,micro_f1
+"[[27 11]
+ [ 4 58]]",85,100,0.85,0.8557737260402056,0.8230050933786077,0.8340524394291404,0.85
